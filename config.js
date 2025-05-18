@@ -43,7 +43,7 @@ OWNER_NAME: process.env.OWNER_NAME || "⏤͟͟͞͞★𝐔𝐦𝐚𝐫❍₰𝐁�
 // add bot owner name
 DESCRIPTION: process.env.DESCRIPTION || "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ ⏤͟͟͞͞★𝐔𝐦𝐚𝐫❍₰𝐁𝐚𝐥𝐨𝐜𝐡࿐*",
 // add bot owner name    
-ALIVE_IMG: process.env.ALIVE_IMG || "https://files.catbox.moe/149k8x.jpg",
+ALIVE_IMG: process.env.ALIVE_IMG || "https://files.catbox.moe/xziddb.jpg",
 // add img for alive msg
 LIVE_MSG: process.env.LIVE_MSG || "> Zinda Hun Yar *KHAN-MD*⚡",
 // add alive msg here 
